@@ -18,7 +18,7 @@ namespace Part_1_Basics
             Console.WriteLine();
             Console.WriteLine();
             string firstName = "Niklas";
-            string favMovie = "The Matrix";
+            string favMovie = "UP";
             Console.WriteLine($"hi my name is {firstName} and my favorite movie is {favMovie}.");
             favMovie = (favMovie.ToUpper());
             Console.WriteLine($"{favMovie}");
